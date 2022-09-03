@@ -1,6 +1,7 @@
 # youtubeclone
 
-A new Flutter project.
+You tube clone application it contains Ui part of the You tube
+
 
 ## Getting Started
 
